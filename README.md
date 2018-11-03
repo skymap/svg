@@ -2,5 +2,6 @@
 skymap for svg (scalable vector graphics)
 
 ## hip
-+ Hipparcos Catalogue stars
-+ 774 area
++ Hipparcos catalogue
++ 117955 stars
++ 774 areas
